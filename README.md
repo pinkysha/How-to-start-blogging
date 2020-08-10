@@ -1,3 +1,19 @@
+## How To Start a Blog – Beginner’s Guide for 2020
+
+So, you want to start a blog huh? Great idea!
+[Learn Blogging](https://kindlybeinformed.com/how-to-start-a-blog/)
+
+But…how the heck do you get started? There’s so much info out there on the web, and everyone’s telling you to do different things. Who do you listen to? Where’s the starting point?
+
+Damnit, maybe you should just forget it – it’s too confusing!
+
+Well, hold up. I used to be a blogging newbie too. I had the same problems. I started my blog (BloggingBasics101.com) way back in 2006, and I knew less than nothing about blogging. In fact, it was only the week before I’d learned what a blog was.
+
+Now I know a ton about them, and my blog’s doing pretty well – I receive more than 300,000 unique visitors per month which makes me consider myself someone you could listen to and learn from when it comes to building your own blog. I’m not some sort of Guru, but I certainly do know the basics.
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pinkysha/How-to-start-blogging/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
